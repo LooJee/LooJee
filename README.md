@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=loojee&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loojee&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loojee&layout=compact" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loojee&theme=github&layout=compact" />
 </div>
