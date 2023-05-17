@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loojee&theme=github&layout=compact" />
+  <img align="left" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=loojee&show_icons=true">
 </div>
