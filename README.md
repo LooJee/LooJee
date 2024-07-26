@@ -23,4 +23,10 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loojee" />
 </div>
 
+## Skills
 
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,rust)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=vue,next,html,css,tailwind)
