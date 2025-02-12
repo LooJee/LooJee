@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,go,python,rust)
+![Languages](https://skillicons.dev/icons?i=c,js,go,python,rust,vue)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=vue,next,html,css,tailwind)
